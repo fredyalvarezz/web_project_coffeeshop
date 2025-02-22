@@ -1,0 +1,11 @@
+.page{
+  min-width: 1100px;
+  max-width: 1600px;
+  box-sizing: content-box;
+  width: 100%;
+  /*display: flex;
+  justify-content: center;*/
+  font-family: "Inter", Arial, sans-serif, "Noto serif", 'Times New Roman', serif ;
+  font-size: 16px;
+  line-height: 20px;
+}
