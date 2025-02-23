@@ -94,30 +94,26 @@
 }
 
 .header__footer{
-  position: absolute;
-  left: 80px;
-  bottom: 40px;
+  color: #838383;
 }
 .header__footer-hour{
   display: flex;
   flex-direction: column;
-  font-family: "inter";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
-  color: #838383;
-  margin: 0;
+  position: absolute;
+  left: 80px;
+  bottom: 40px;
 }
 
 .header__paragraph{
+  margin: 5px 0;
+  line-height: 1;
+}
+.header__footer-addres{
+  display: flex;
+  margin-top: auto;
   position: absolute;
   right: 80px;
   bottom: 40px;
-  font-family: "inter";
-  font-style: normal;
-  font-weight: 500;
-  color: #838383;
 }
 
 /*-----------------------Recipes----------------------------------*/
