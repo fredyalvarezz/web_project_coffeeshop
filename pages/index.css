@@ -195,7 +195,6 @@ line-height: 52px;
   flex-direction: column;
   align-items: center;
 
-  margin-top: 80px;
 }
 .reservation__label::after{
   content: " *";
@@ -208,7 +207,7 @@ line-height: 52px;
   margin-bottom: 120px;
 }
 .reservation__title{
-  margin-top: 100px;
+  margin: 100px auto 80px auto;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
