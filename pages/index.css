@@ -207,12 +207,13 @@ line-height: 52px;
   margin-bottom: 120px;
 }
 .reservation__title{
-  margin: 100px auto 80px auto;
+  margin: 0px auto 80px;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  padding-top: 100px; ;
 
 }
 .reservation__label{
